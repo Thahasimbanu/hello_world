@@ -1,1 +1,3 @@
-<?php echo "Testing"; ?>
+<?php echo "Testing";
+echo "windows testing";
+?>
